@@ -1,5 +1,5 @@
 homepage: "https://localizejs.com"
 documentation: "https://help.localizejs.com"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: b298fce63e561ea25b22db4b074048f21fe87e31
     changeNotes: Initial release.
